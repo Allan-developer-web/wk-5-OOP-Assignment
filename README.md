@@ -6,3 +6,9 @@ The assignment demonstrates:
 3. Constructor for initialization
 4. Encapsulation (private _storage with getter/setter)
 5. Inheritance & Polymorphism (GamingSmartphone extends Smartphone)
+
+# Activity 2: Polymorphism Challenge! 🎭
+Explanation:
+
+1. Each subclass (Car, Plane, Boat) overrides the move() method to show polymorphism.
+2. Running the program prints a unique movement for each vehicle.
